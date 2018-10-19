@@ -1,0 +1,11 @@
+{
+"require": {
+    "monolog/monolog": "1.2.*"		
+}
+,
+ "autoload": {
+    "classmap": [
+	  "vendor/pekky/DB"
+      ]
+  }
+}
